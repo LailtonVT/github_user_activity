@@ -9,7 +9,7 @@ Este é um projeto simples de CLI em Python que utiliza a API do GitHub para bus
 ## Funcionalidades
 
 - Aceita o nome de usuário do GitHub como argumento.
-- Busca as 10 atividades mais recentes do usuário.
+- Busca as 25 atividades mais recentes do usuário.
 - Exibe informações sobre commits, issues e estrelas de repositórios.
 
 ## Requisitos
